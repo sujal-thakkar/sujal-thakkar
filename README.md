@@ -73,6 +73,10 @@
     alt="sujal-thakkar" /></p>
 
 <br>
+<p>&nbsp;<img align="center" src="https://roadmap.sh/card/wide/66484093bc68b74d9bb13d00?variant=dark"
+    alt="sujal-thakkar" /></p>
+
+<br>
       
 
 [sujal-thakkar](https://github.com/sujal-thakkar)
