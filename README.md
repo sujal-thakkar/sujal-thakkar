@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal thakkar</h1>
+<h1 align="center">Hi 👋, I'm Sujal Thakkar</h1>
 <h3 align="center">Student at Manipal University Jaipur 🌟</h3>
 
 <br>
