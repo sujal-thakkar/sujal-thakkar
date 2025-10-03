@@ -1,4 +1,4 @@
-<img src="./image.jpeg" alt='Its me' align='center' width='300px'/>
+<img src="./image.jpeg" alt='Its me' align='center' width='250px' height='250px'/>
 
 ## 🌟 About Me
 
